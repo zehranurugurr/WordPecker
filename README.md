@@ -1,4 +1,4 @@
-WordPecker - Language Learning App
+<img width="1530" height="975" alt="Ekran görüntüsü 2025-06-11 193927" src="https://github.com/user-attachments/assets/0a8a7c42-b20e-4607-b535-443b8d9b0c8f" />WordPecker - Language Learning App
 
 WordPecker is an interactive language learning application designed to help users improve their vocabulary, grammar, and language skills. The app offers various challenges and quizzes based on the selected language. It also features a character creation screen, where users can customize their profile and choose their preferred language and gender. As users progress, their scores and levels increase, allowing them to track their improvement.
 Table of Contents
@@ -96,11 +96,11 @@ Screenshots
 
 Here are some screenshots of the app in action:
     
-    Character Creation Screen:
+ <img width="1530" height="975" alt="Ekran görüntüsü 2025-06-11 193927" src="https://github.com/user-attachments/assets/f3174f67-5f48-4ec8-a684-ddc50bbde004" />
 
-    Language Test Screen:
+ 
+<img width="622" height="347" alt="Ekran görüntüsü 2025-06-11 193955" src="https://github.com/user-attachments/assets/6f8ccc02-4f46-4df8-b07a-0fcae8ed51c3" />
 
-    Settings Screen:
 
 Contributing
 
